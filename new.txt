@@ -1,7 +1,5 @@
 this is a demo
 hello git
 
-the 4 row
-
 git is a distributed version control system
 git is a free software
